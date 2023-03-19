@@ -1,0 +1,15 @@
+C:\Users\kenny\Desktop\C#\bank\bank\obj\Debug\net6.0\bank.csproj.AssemblyReference.cache
+C:\Users\kenny\Desktop\C#\bank\bank\obj\Debug\net6.0\bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenny\Desktop\C#\bank\bank\obj\Debug\net6.0\bank.AssemblyInfoInputs.cache
+C:\Users\kenny\Desktop\C#\bank\bank\obj\Debug\net6.0\bank.AssemblyInfo.cs
+C:\Users\kenny\Desktop\C#\bank\bank\obj\Debug\net6.0\bank.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Desktop\C#\bank\bank\bin\Debug\net6.0\bank.exe
+C:\Users\kenny\Desktop\C#\bank\bank\bin\Debug\net6.0\bank.deps.json
+C:\Users\kenny\Desktop\C#\bank\bank\bin\Debug\net6.0\bank.runtimeconfig.json
+C:\Users\kenny\Desktop\C#\bank\bank\bin\Debug\net6.0\bank.dll
+C:\Users\kenny\Desktop\C#\bank\bank\bin\Debug\net6.0\bank.pdb
+C:\Users\kenny\Desktop\C#\bank\bank\obj\Debug\net6.0\bank.dll
+C:\Users\kenny\Desktop\C#\bank\bank\obj\Debug\net6.0\refint\bank.dll
+C:\Users\kenny\Desktop\C#\bank\bank\obj\Debug\net6.0\bank.pdb
+C:\Users\kenny\Desktop\C#\bank\bank\obj\Debug\net6.0\bank.genruntimeconfig.cache
+C:\Users\kenny\Desktop\C#\bank\bank\obj\Debug\net6.0\ref\bank.dll
